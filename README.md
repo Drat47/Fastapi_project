@@ -12,5 +12,6 @@ myenv\Scripts\Activate.ps1
 #frontend
 npm install
 npm start
+first instaal the npm 
 
 dadta addedd 
